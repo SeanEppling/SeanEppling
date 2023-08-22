@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Sean Eppling and I am a junior CS undergraduate at University of Hosuton
+- 🌱 I’m currently learning to solve problems through LeetCode using Python, and self-teaching myself data management and web development
+- 💞️ I’m looking for chances to expand and sharpen my prior knowledge and have opportunities to learn more
+- 📫 How to reach me:
+  - Email: sean.eppling@gmail.com
+  - Discord: .parmesean
