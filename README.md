@@ -3,4 +3,4 @@
 - 💞️ I’m looking for chances to expand and sharpen my prior knowledge and have opportunities to learn more
 - 📫 How to reach me:
   - Email: sean.eppling@gmail.com
-  - Discord: .parmesean
+  - Discord: .bntobx
